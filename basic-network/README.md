@@ -5,7 +5,7 @@ key material, and also has predefined transactions to initialize a
 channel named "mychannel".
 
 To regenerate this material, simply run ``generate.sh``.
-
+But remember that if you have run generate.sh, you might need to modify something before start.sh
 To start the network, run ``start.sh``.
 To stop it, run ``stop.sh``
 To completely remove all incriminating evidence of the network
